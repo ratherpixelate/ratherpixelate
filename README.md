@@ -1,4 +1,4 @@
-WHAT U LOOKING AT? Dont judge me i'm justaboy
+Dont judge me cuz i'm justaboy
 - Discord me justaboy9095 for collaborations (If me free)
 
 <!---
