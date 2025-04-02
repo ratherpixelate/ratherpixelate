@@ -1,5 +1,4 @@
 - Discord me @justaboy9095 for collaborations (If me free)
-- Up for creating KWGT widgets lol
 
 <!---
 The-C0der/The-C0der is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
