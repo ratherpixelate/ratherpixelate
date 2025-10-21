@@ -1,2 +1,2 @@
 - Know Python, HTML & CSS (Still at beginer stage)
-- Learning UI designing
+- Learning UI/UX
