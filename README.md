@@ -15,7 +15,7 @@ chris@archlinux ~ $ cat about.txt
 
   > 2nd year B.Tech IT @ GEC Barton Hill
   > Parallel-tracking BS Data Science @ IIT Madras
-  > Building open-source tools for KTU students
+  > Building open-source tools
   > Into cybersecurity, web dev and other shi
   > Currently reverse-engineering KTU APIs
 
