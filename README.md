@@ -1,9 +1,14 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=32&letterSpacing=-1px&pause=1000&color=CDD6F4&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Chris+%E2%9C%8C%EF%B8%8F;IT+Undergrad+%40+GEC+Barton+Hill" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=32&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Chris+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:chrislissanjohnson@gmail.com">
+    <img src="https://img.shields.io/badge/Email-CDD6F4?style=for-the-badge&&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/chris-l-johnson-a32b0437b/">
+    <img src="https://img.shields.io/badge/LinkedIn-CDD6F4?style=for-the-badge&&logoColor=white" />
+  </a>
 </p>
 
 ---
