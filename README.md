@@ -25,7 +25,8 @@ chris@archlinux ~ $ cat about.txt
   > Currently reverse-engineering KTU APIs
 
 chris@github ~ $ ls projects/
-env-grep/          syllabus-fyi/          ktu-announcements-api/
+ktu-announcements-api/    env-grep/                 syllabus-fyi/
+VOTADS-alpha-1.0/
 
 chris@github ~ $ _
 ```
