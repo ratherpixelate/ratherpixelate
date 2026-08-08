@@ -26,7 +26,6 @@ chris@archlinux ~ $ cat about.txt
 
 chris@github ~ $ ls projects/
 ktu-announcements-api/    env-grep/                 syllabus-fyi/
-VOTADS-alpha-1.0/
 
 chris@github ~ $ _
 ```
