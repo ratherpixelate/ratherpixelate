@@ -1,53 +1,46 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Prop+Single&size=32&pause=1000&color=CDD6F4&center=true&vCenter=true&repeat=false&width=435&lines=Hi+I'm+Chris+%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
-</h1>
+# Chris L. J.
 
-<p align="center">
-  <a href="mailto:chrislissanjohnson@gmail.com">
-    <img src="https://img.shields.io/badge/Email-CDD6F4?style=for-the-badge&&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/chris-l-johnson-a32b0437b/">
-    <img src="https://img.shields.io/badge/LinkedIn-CDD6F4?style=for-the-badge&&logoColor=white" />
-  </a>
-</p>
+Second-year B.Tech IT student at GEC Barton Hill, also pursuing a BS in Data Science at IIT Madras. I build backend tools and public APIs, mostly around scraping and structuring messy real-world data.
+
+**Open to summer 2027 internships in backend and API development.**
+
+[Email](mailto:chrislissanjohnson@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chr1slj/)
 
 ---
 
-### `$ whoami`
+## Featured projects
 
-```bash
-chris@archlinux ~ $ cat about.txt
+### [ktu-announcements-api](https://github.com/ratherpixelate/ktu-announcements-api)
+Unofficial REST API for APJ Abdul Kalam Technological University (KTU) announcements. Playwright handles the scraping and FastAPI serves the results as JSON.
+<br>**Stack:** Python, FastAPI, Playwright
+<br>**Live:** https://ktu-announcements-api-wxk8.onrender.com/
 
-  > 2nd year B.Tech IT @ GEC Barton Hill
-  > Parallel-tracking BS Data Science @ IIT Madras
-  > Building open-source tools
-  > Into cybersecurity, web dev and other shi
-  > Currently reverse-engineering KTU APIs
+### [syllabus-fyi](https://github.com/ratherpixelate/syllabus-fyi)
+Public REST API for KTU 2024 scheme syllabus data: courses, modules, topics, hours, and references as structured JSON, extracted from the official KTU PDFs.
+<br>**Stack:** Python
 
-chris@github ~ $ ls projects/
-ktu-announcements-api/    env-grep/                 syllabus-fyi/
-ktu-qp-scraper/
+### [env-grep](https://github.com/ratherpixelate/env-grep)
+Command-line tool that scans a project for missing or undocumented environment variables, so config bugs get caught before production.
+<br>**Stack:** Python
 
-chris@github ~ $ _
-```
-
----
-
-### 🛠 Tech I work with
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,figma" />
-  </a>
-</p>
+### [ktu-qp-scraper](https://github.com/ratherpixelate/ktu-qp-scraper)
+Scraper that collects KTU B.Tech model question papers from ktu.edu.in.
+<br>**Stack:** Python
 
 ---
 
-### 📊 GitHub Stats
+## Skills
 
-<p align="center"> <img alt="minesweeper contribution graph" src="https://raw.githubusercontent.com/ratherpixelate/ratherpixelate/output/minesweeper-contribution-graph.svg" width="90%"> </p> <p align="center"></p>
+- **Languages:** Python, C, HTML, CSS
+- **Backend:** FastAPI, Node.js, Playwright, REST API design
+- **Frontend and design:** React, Figma
+- **Databases:** MySQL
+- **Tools:** Git, Linux
 
+[![Tech stack](https://skillicons.dev/icons?i=c,python,fastapi,mysql,nodejs,react,html,css,git,linux,figma)](https://skillicons.dev)
 
 ---
 
-<p align="center"><i>Working on: syllabus-fyi — a public API for KTU 2024 scheme syllabus data</i></p>
+## Currently
+
+Maintaining and extending the KTU developer tools above.
